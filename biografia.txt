@@ -1,3 +1,3 @@
 Mi nombre es Alejandro Naranjo
 
-Soy docente en la Universidad de San Buenaventura y en mis tiempos libres cuento cuentos, leo libros y aprendo a programar
+Seré desarrollador Frontend y en mis tiempos libres seguiré contando cuentos, leyendo libros y conectando el desarrollo Frontend con la visualización de información.
