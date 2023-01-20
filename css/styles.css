@@ -47,13 +47,3 @@ h1 {
     padding: 1em;
     background: white;
 }
-
-#footer {
-    height: 16px;
-    background: #777;
-    color: white;
-    font-size: 10px;
-    text-align: center;
-    padding: 0.5em;
-    border-radius: 0 0 15px 15px;
-}
