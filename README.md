@@ -1,6 +1,12 @@
 # LearningGIT
 Repository for learning to work with GIT and GITHUB
 
+This a GitHub Page published with the exercise developed along the course:
+https://alejonaranjo83.github.io/LearningGIT.github.io/index.html
+
+<br>
+<br>
+
 Useful to learn more about markdown language:
 https://www.markdownguide.org/extended-syntax
 
