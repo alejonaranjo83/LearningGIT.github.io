@@ -48,6 +48,15 @@ h1 {
     background: white;
 }
 
+#post .contenedor-img {
+ display: flex;
+ justify-content: center;
+}
+
+#post img {
+    width: 300px
+}
+
 #footer {
     height: 16px;
     background: #777;
